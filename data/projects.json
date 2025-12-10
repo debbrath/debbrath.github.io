@@ -70,7 +70,7 @@
       "Automatic Data Seeding (200,000+ products via Bogus).",
       "Performance Tracking middleware and Swagger documentation."
     ],
-    "link": "https://github.com/Aronno1920/ElasticPracticeSolution"
+    "link": "https://github.com/debbrath/ElasticPracticeSolution"
   },
   {
     "id": "5",
@@ -88,7 +88,7 @@
       "gRPC (Google Remote Procedure Call) for high-performance service calls.",
       "Clean Architecture principle implemented with C#/.NET."
     ],
-    "link": "https://github.com/Aronno1920/Microservices_Ecommerce"
+    "link": "https://github.com/debbrath/Microservices_Ecommerce"
   },
   {
     "id": "6",
@@ -348,7 +348,7 @@
       "Data Preparation: Includes essential preprocessing steps like Normalization and Flattening the input data.",
       "Performance Reporting: Visual comparison of Training vs. Validation Accuracy and final test accuracy report."
     ],
-    "link": "https://github.com/Aronno1920/Digit-Classifier-MNIST"
+    "link": "https://github.com/debbrath/Digit-Classifier-MNIST"
   },
   {
     "id": "54",
@@ -366,7 +366,7 @@
       "Data Preparation: Essential preprocessing includes normalization and model-specific reshaping (flattening vs. 28x28x1).",
       "Quantified Comparison: Displays test accuracy and visualized sample predictions to prove CNN efficacy."
     ],
-    "link": "https://github.com/Aronno1920/Fashion-Classifier-MNIST"
+    "link": "https://github.com/debbrath/Fashion-Classifier-MNIST"
   },
   {
     "id": "55",
@@ -402,7 +402,7 @@
       "Dockerization for consistent, reproducible environments.",
       "Cloud Deployment (e.g., Render) of the containerized application."
     ],
-    "link": "https://github.com/Aronno1920/Predict-Heart-Disease"
+    "link": "https://github.com/debbrath/Predict-Heart-Disease"
   },
   {
     "id": "57",
@@ -420,7 +420,7 @@
       "Evaluation using Accuracy, Precision, Recall, and F1 Score.",
       "Focus on Text Representation impact on classification performance."
     ],
-    "link": "https://github.com/Aronno1920/Sentiment-Analysis"
+    "link": "https://github.com/debbrath/Sentiment-Analysis"
   },
   {
     "id": "58",
@@ -456,7 +456,7 @@
       "LinkedIn-Optimized Output (professional, engaging structure).",
       "Input variables: Topic and Language."
     ],
-    "link": "https://github.com/Aronno1920/PostGenerator-AIAgent-LangChain"
+    "link": "https://github.com/debbrath/PostGenerator-AIAgent-LangChain"
   },
   {
     "id": "60",
@@ -493,7 +493,7 @@
       "Uses OpenAI Agent SDK and Langchain Agent Executor for robust logic.",
       "Mixed Queries → Both database and web search tools"
     ],
-    "link": "https://github.com/Aronno1920/Multi-Tool-Agent"
+    "link": "https://github.com/debbrath/Multi-Tool-Agent"
   },
   {
     "id": "62",
@@ -511,7 +511,7 @@
       "Full-Cycle Automation: Automates content generation from research/writing to final image creation.",
       "External API Integration: Connects the text-based workflow to an image generation service for visual output."
     ],
-    "link": "https://github.com/Aronno1920/Multi-Tool-Agent"
+    "link": "https://github.com/debbrath/Multi-Tool-Agent"
   }  ,
   {
     "id": "63",
