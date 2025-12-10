@@ -1,0 +1,50 @@
+[
+  {
+    "id": "person1",
+    "name": "MD. Tofiq Akbar",
+    "fullName": "MD. Tofiq Akbar",
+    "avatar": "./assets/images/testimonial/person1.jpg",
+    "position": "Senior Engineer @ B-Trac Solutions | Java, Kotlin, Flutter, Jetpack Compose",
+    "text": "A fantastic resource with excellent working capabilities. He knows very well how to work with responsibilities. Professional, pure worker, and a very good team leader. It has been a great experience working with Debbrath on the same project."
+  },
+  {
+    "id": "person2",
+    "name": "Sakib Hossien",
+    "fullName": "Sakib Hossien",
+    "avatar": "./assets/images/testimonial/person2.jpg",
+    "position": "SAP PPQM Core Team Member | SAP Implementation | System Engineer",
+    "text": "Mr. Debbrath is one of the most talented IT Professional I’ve had the pleasure of working with. His deep understanding and ability to develop creative solutions to complex problems made a significant impact on project management process. Beyond technical expertise, He is a great team player with excellent time management skills. "
+  },
+  {
+    "id": "person3",
+    "name": "Selim Ahmed",
+    "fullName": "Selim Ahmed",
+    "avatar": "./assets/images/testimonial/person3.jpg",
+    "position": "Software Analyst | AI Enthusiast | PGD in Project Management |ASP.Net Core | ML/DL | NLP | CrewAI | RAG | N8N | Python | MSSQL",
+    "text": "I’m glad to recommend Debbrath Debnath, an outstanding professional with strong expertise in ERP, SAP, and modern software development practices. Debbrath approaches every project with focus, clarity, and a problem-solving mindset that consistently leads to successful outcomes. He communicates effectively, collaborates smoothly with teams, and ensures that both technical and business needs are aligned. His enthusiasm for continuous learning—especially in AI Engineering—reflects his commitment to staying current in a rapidly evolving tech landscape. Debbrath is reliable, skilled, and always delivers value. Any team would benefit from having him on board."
+  },
+  {
+    "id": "person4",
+    "name": "Md. Mahi Salman",
+    "fullName": "Md. Mahi Salman",
+    "avatar": "./assets/images/testimonial/person4.jpg",
+    "position": "Senior Project Coordinator | AI Engineering | Langchain | n8n | RPA | UiPath | Python | C# | SQL | SAP FI/CO | Project Management",
+    "text": "Mr. Debbrath Debnath is one of the most dependable and technically accomplished professionals I have worked with. He brings a rare combination of AI engineering expertise and deep SAP SD knowledge, making him highly effective in both technical and business environments. He excels in transforming complex challenges into practical solutions that deliver measurable value. He has a structured, analytical problem-solving approach, and is able to explain highly technical concepts in a way that is clear, simple, and easily understood. This makes him extremely effective in cross-functional teams, stakeholder discussions, and client-facing scenarios. Mr. Debbrath is also a collaborative and supportive team member who consistently goes the extra mile to help others and ensure project success. I highly recommend him for any role that demands top-tier technical capability, strong business insight, and professional leadership."
+  },
+  {
+    "id": "person5",
+    "name": "Somapti Alam",
+    "fullName": "Somapti Alam",
+    "avatar": "./assets/images/testimonial/person5.jpg",
+    "position": "Software Engineer at Orion || CTM SAP HCM Module || IT Professional || Web Designer & Developer",
+    "text": "I had the opportunity to work with Debbrath Debnath, and his depth of knowledge in ERP systems, project management, and the full Software Development Life Cycle is truly impressive. He has more than a decade of hands-on experience, and it clearly reflects in the way he plans, leads, and executes projects with precision. Debbrath excels at system integration, process optimization, and cross-team coordination, ensuring smooth delivery across all phases of development. His ability to guide teams, resolve complex technical challenges, and maintain a high level of professionalism makes him a highly dependable technical lead. I confidently recommend him for any senior technical, ERP, or project leadership role."
+  },
+  {
+    "id": "person6",
+    "name": "Kazi Zuljalal Md. Maslinia",
+    "fullName": "Kazi Zuljalal Md. Maslinia",
+    "avatar": "./assets/images/testimonial/person6.jpg",
+    "position": "Sr. Software Engineer || ASP.NET || Flutter || MSSQL || ERP || Software Architect",
+    "text": "I’ve had the pleasure of working with Debbrath Debnath, and he is an outstanding ERP and Technical Lead with strong expertise in software development, project management, and system integration. His deep knowledge of ERP and SAP enables him to solve complex technical challenges with clarity and precision. I highly recommend Debbrath for any role that requires strong technical leadership, problem-solving skills, and a dependable, forward-thinking professional."
+  }
+]

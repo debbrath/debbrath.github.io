@@ -1,0 +1,58 @@
+{
+  "educations": [
+    
+    {
+      "title": "Executive Master of Business Administration (EMBA)",
+      "organization": "American International University | Dhaka, Bangladesh",
+      "date": "Section: 2021 - 2022",
+      "skill": ""
+    },
+    {
+      "title": "Postgraduate Diploma in Project Management (PGDPM)",
+      "organization": "Academy of Business Professionals (ABP) | Dhaka, Bangladesh",
+      "date": "July 2020 - January 2021",
+      "skill": "Project management is the process of leading the work of a team to achieve all project goals within the given constraints. The primary constraints are scope, time, budget. The secondary challenge is to optimize the allocation of necessary inputs and apply them to meet pre-defined objectives."
+    },
+    {
+     "title": "B.Sc in Computer Science and Engineering (CSE)",
+      "organization": "University of Chittagong | Chittagong, Bangladesh",
+      "date": "Section: 2006 - 2009",
+      "skill": ""
+    }
+  ],
+
+  "certifications": [
+    {
+      "title": "AI Engineering Bootcamp for Programmers",
+      "organization": "Ostad | Dhaka, Bangladesh",
+      "date": "Continue 2025",
+      "credentialUrl": "./assets/pdf/course/Certificate_AIEngineering-C33931.pdf",
+      "skill": "Skills: Math for Machine Learning, Development Tools, Regression & Classification Models and Evaluation, Unsupervised Learning and Dimensionality Reduction, Deep Learning, Computer Vision, CNN, Model Finetuning, Transformers, NLP, Hugging Face Models, Prompt Engineering, N8N, LangChain, Multi-Agent System and Workflow Automation, RAG, Vector Databases"
+    },
+     {
+      "title": "SAP SD (Sales & Distribution) - Configuration & End User",
+      "organization": "Udemy",
+      "date": "Issued May 2023",
+      "credentialUrl": "https://www.udemy.com/certificate/UC-bc85b55f-1a5f-40d2-aa5f-db9c38952c3b/",
+      "skill": ""
+    },
+    {
+      "title": "PRINCE2® Foundation Certification Training",
+      "organization": "Global Skills Development Agency",
+      "date": "Issued Oct 2019",
+      "credentialUrl": "./assets/pdf/course/Professional_Prince2.jpg",
+      "skill": "Skills:"
+    },
+    {
+      "title": "Oracle Application Development Framework Essentials",
+      "organization": "New Horizon Computer Learning Centers of Jackson",
+      "date": "Issued Aug 2010",
+      "credentialUrl": "./assets/pdf/course/Professional_OCP.jpg",
+      "skill": ""
+    }   
+  ],
+
+  "workshops": [
+    
+  ]
+}
