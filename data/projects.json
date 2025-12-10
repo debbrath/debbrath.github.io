@@ -15,7 +15,7 @@
       "Robust Security Stack: Ping Federate, JWT, oAuth token-based authentication.",
       "Technologies include ASP.NET, MS SQL, RESTful API, WCF, and SFTP."
     ],
-    "link": "https://github.com/Aronno1920"
+    "link": "https://github.com/debbrath"
   }
   ,
   {
@@ -34,7 +34,7 @@
       "Integrated Workshop Module: Manages Job Card Creation and automated material consumption tracking.",
       "Financial Automation: Automatic Bill Generation and seamless General Ledger posting."
     ],
-    "link": "https://github.com/Aronno1920"
+    "link": "https://github.com/debbrath"
   },
   {
     "id": "3",
@@ -52,7 +52,7 @@
       "Versions & Support: Has evolved through several versions (V3-V5); newer versions are commercial and offer professional support.",
       "Database: Typically relies on Microsoft SQL Server for reliable data storage."
     ],
-    "link": "https://github.com/Aronno1920"
+    "link": "https://github.com/debbrath"
   },
   {
     "id": "4",
@@ -474,7 +474,7 @@
       "Automated Data Flow: Webhook trigger, data persistence to Google Sheets, and user email delivery.",
       "n8n Automation: Used for all core intelligence and tool integration (Firecrawl, OpenAI, Google Sheets, Email)."
     ],
-    "link": "https://github.com/Aronno1920"
+    "link": "https://github.com/debbrath"
   },
   {
     "id": "61",
